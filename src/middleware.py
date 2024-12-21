@@ -1,5 +1,5 @@
 from django.core.exceptions import PermissionDenied
-from .utils import has_permission
+from utils import has_permission
 
 
 class RBACMiddleware:

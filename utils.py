@@ -1,5 +1,5 @@
 from django.core.cache import cache
-from models import UserRole, RolePermission
+from src.models import UserRole, RolePermission
 
 
 def has_permission(user, permission_codename):

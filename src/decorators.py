@@ -1,6 +1,6 @@
 from functools import wraps
 from django.core.exceptions import PermissionDenied
-from .utils import has_permission
+from utils import has_permission
 
 
 def permission_required(permission_codename):

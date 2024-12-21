@@ -9,7 +9,7 @@ setup(
     description="A flexible RBAC system for Django",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/seamuddin/django-ultra-rbac",
+    url="https://github.com/seamuddin/Django-Ultra-RBAC/",
     author="Seam Uddin",
     author_email="seamuddin.me@gmail.com",
     install_requires=[

@@ -5,7 +5,7 @@ A flexible and powerful Role-Based Access Control (RBAC) system for Django appli
 [![PyPI version](https://badge.fury.io/py/django-ultra-rbac.svg)](https://badge.fury.io/py/django-ultra-rbac)
 [![Python versions](https://img.shields.io/pypi/pyversions/django-ultra-rbac.svg)](https://pypi.org/project/django-ultra-rbac/)
 [![Django versions](https://img.shields.io/pypi/djversions/django-ultra-rbac.svg)](https://pypi.org/project/django-ultra-rbac/)
-[![License](https://img.shields.io/github/license/yourusername/django-ultra-rbac.svg)](https://github.com/yourusername/django-ultra-rbac/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/yourusername/django-ultra-rbac.svg)](https://github.com/seamuddin/Django-Ultra-RBAC/blob/master/LICENSE)
 
 ## Features
 
